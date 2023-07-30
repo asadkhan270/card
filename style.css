@@ -1,5 +1,5 @@
 .body {
-    background-color: rgb(28, 78, 216);
+    background-color: rgb(61, 199, 218);
 }
 
 img {
@@ -7,49 +7,56 @@ img {
     /* margin: 20px 0px 30px 80px; */
     border-radius: 30px;
     border-style: solid;
+    /* border-width: 10px; */
     border: 20px 20px 20px 20px;
 }
 
+a{
+    text-decoration-line: none;
+}
 .text {
     text-align: center;
     font-weight: bolder;
     font-size: xx-large;
+    text-decoration: none   ;
 }
 
 .button1 {
     border-radius: 60px;
-    background-color: rgb(233, 44, 19);
+    border-width: 2.5px;
+    background-color: rgb(240, 221, 47);
     margin: 15px 0px 15px 0px;
     font-size: 30px;
+
 }
 
-.button2 {
+/* .button2 {
     border-radius: 60px;
-    background-color: rgb(233, 44, 19);
+    background-color: rgb(240, 221, 47);
     margin: 15px 0px 15px 0px;
     font-size: 30px;
 }
 
 .button3 {
     border-radius: 60px;
-    background-color: rgb(233, 44, 19);
+    background-color: rgb(240, 221, 47);
     margin: 15px 0px 15px 0px;
     font-size: 30px;
 }
 
 .button4 {
     border-radius: 60px;
-    background-color: rgb(233, 44, 19);
+    background-color: rgb(240, 221, 47);
     margin: 15px 0px 15px 0px;
     font-size: 30px;
 }
 
 .button5 {
     border-radius: 60px;
-    background-color: rgb(233, 44, 19);
+    background-color: rgb(240, 221, 47);
     margin: 15px 0px 15px 0px;
     font-size: 30px;
-}
+} */
 
 .header {
     /* background-color: #f2f2f2; */
@@ -66,4 +73,14 @@ img {
     max-height: 100vh;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px ;
+}
+.text1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    border-style: solid;
+    border-width: 5px;
+    margin: 35px 10px 10px 10px  ;
+background-color:aquamarine;
+
 }
